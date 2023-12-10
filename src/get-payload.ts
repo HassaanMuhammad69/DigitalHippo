@@ -15,7 +15,7 @@ if(!cached){
         promise: null,
     }
 }
-
+  
 interface Args{
     initOptions?: Partial<InitOptions>
 }
